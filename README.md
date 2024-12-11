@@ -1,1 +1,1 @@
-# Django_ecommerece
+# Shade Balls E-commerce
